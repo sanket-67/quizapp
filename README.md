@@ -2,7 +2,14 @@
 
 A modern, responsive quiz application built with React and Vite that features real-time feedback, progress tracking, and a sleek user interface with dark mode support.
 
-## Screenshots
+
+##  check the site
+
+
+```bash
+https://quizapp-gilt-three.vercel.app/
+```
+
 
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap">
@@ -40,4 +47,11 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/quiz-app.git
+```
+## 📦 check the site
+
+
+```bash
+https://quizapp-gilt-three.vercel.app/
+```
 
